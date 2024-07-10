@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div display:'flex'>
   <img width="20%" align="center" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
 <h1 style="width:'50%'">About Me</h1>
   <div width="50%">
