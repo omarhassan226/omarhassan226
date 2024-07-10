@@ -4,11 +4,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
+<div style="display:'flex'">
 <img width="40%" align="center" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
 
-## About Me
-
-I'm a passionate frontend developer from Egypt.
+  I'm a passionate frontend developer from Egypt.
 
 🏫 I graduated from the faculty of engineering MU CSED.
 
@@ -17,6 +16,12 @@ I'm a passionate frontend developer from Egypt.
 🤓 Always learning new things.
 
 📫 How to reach me: [oh.22697@gmail.com](mailto:https://mail.google.com/mail/u/0/#inbox)
+</div>
+
+
+## About Me
+
+
 
 ## Connect with Me
 
