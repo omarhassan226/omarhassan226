@@ -16,7 +16,9 @@ I'm a passionate frontend developer from Egypt.
 
 ## Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/omar-hassan97)
+[![LinkedIn]([www.linkedin.com/in/omar-hassan97](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/omar-hassan97
+
+))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
