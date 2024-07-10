@@ -2,10 +2,11 @@
 
 <h1 align="center">Look For Ninja!👻</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)4
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img width="40%" align="center" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
+<h1>About Me</h1>
   <div>
     <p>I'm a passionate frontend developer from Egypt.</p>
     <p>🏫 I graduated from the faculty of engineering MU CSED.</p>
