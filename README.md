@@ -40,6 +40,5 @@ I'm a passionate frontend developer from Egypt.
 
 <!-- Pinned Repositories Start -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omarhassan226&repo=Final-ITI-Bid-Project-Node-React-SQL-MongoDB-)](https://github.com/omarhassan226/Final-ITI-Bid-Project-Node-React-SQL-MongoDB-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo)](https://github.com/your-username/your-repo)
 <!-- Pinned Repositories End -->
 
