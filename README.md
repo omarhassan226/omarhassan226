@@ -8,7 +8,7 @@
   <div style="margin-left: 20px;">
     <h1>About Me</h1>
     <p>I'm a passionate frontend developer from Egypt.</p>
-    <p>🏫 I graduated from the faculty of engineering MU CSED.</p>
+    <p>🏫 I graduated from the faculty of engineering MUI.</p>
     <p>💬 Ask me about HTML, CSS, JavaScript, and React.</p>
     <p>🤓 Always learning new things.</p>
     <p>📫 How to reach me: <a href="mailto:oh.22697@gmail.com">oh.22697@gmail.com</a></p>
