@@ -2,6 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
+[![Animated Cartoon](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+
+
 ## About Me
 
 I'm a passionate frontend developer from Egypt.
@@ -40,4 +43,3 @@ I'm a passionate frontend developer from Egypt.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo)](https://github.com/your-username/your-repo)
 <!-- Pinned Repositories End -->
 
-[![Animated Cartoon](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
