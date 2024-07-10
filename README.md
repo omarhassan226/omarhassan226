@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm Omar 👋</h1>
-
 <h1 align="center">Look For Ninja!👻</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-<div display:'flex'>
+<div style="display: flex; align-items: center; justify-content: center;">
   <img width="20%" align="center" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
-<h1 width="50%">About Me</h1>
-  <div width="50%">
+  <div style="margin-left: 20px;">
+    <h1>About Me</h1>
     <p>I'm a passionate frontend developer from Egypt.</p>
     <p>🏫 I graduated from the faculty of engineering MU CSED.</p>
     <p>💬 Ask me about HTML, CSS, JavaScript, and React.</p>
@@ -41,13 +40,11 @@
 
 ## Pinned Repositories
 
-<!-- Pinned Repositories Start -->
 <p align="center">
   <a href="https://github.com/omarhassan226/Final-ITI-Bid-Project-Node-React-SQL-MongoDB-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarhassan226&repo=Final-ITI-Bid-Project-Node-React-SQL-MongoDB-" alt="Pinned Repository">
   </a>
 </p>
-<!-- Pinned Repositories End -->
 
 ## Skills
 
