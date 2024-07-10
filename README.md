@@ -12,7 +12,7 @@ I'm a passionate frontend developer from Egypt.
 
 🤓 Always learning new things.
 
-📫 How to reach me: [oh.22697@gmail.com](mailto:oh.22697@gmail.com)
+📫 How to reach me: [oh.22697@gmail.com](mailto:https://mail.google.com/mail/u/0/#inbox)
 
 ## Connect with Me
 
