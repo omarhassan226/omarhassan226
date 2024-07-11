@@ -9,7 +9,7 @@
   </div>
   <div style="margin-left: 20px;">
     <h1>About Me</h1>
-    <h3>I'm a passionate frontend developer from Egypt.</h3>
+    <h3>👨‍💻 I'm a passionate frontend developer from Egypt.</h3>
     <p>🏫 I graduated from the faculty of engineering MUI.</p>
     <p>💬 Ask me about HTML, CSS, JavaScript, and React.</p>
     <p>🤓 Always learning new things.</p>
