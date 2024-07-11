@@ -3,18 +3,18 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-<div style="display: flex; align-items: center; justify-content: center;" display="flex" display={"flex"}>
-  <div align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
+<!--   <div align="center"> -->
   <img width="40%" align="center" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
-  </div>
-  <div style="margin-left: 20px;">
+<!--   </div> -->
+<!--   <div style="margin-left: 20px;"> -->
     <h1>About Me</h1>
     <h3>👨‍💻 I'm a passionate frontend developer from Egypt.</h3>
     <p>🏫 I graduated from the faculty of engineering MUI.</p>
     <p>💬 Ask me about HTML, CSS, JavaScript, and React.</p>
     <p>🤓 Always learning new things.</p>
     <p>📫 How to reach me: <a href="mailto:oh.22697@gmail.com">oh.22697@gmail.com</a></p>
-  </div>
+<!--   </div> -->
 </div>
 
 ## Connect with Me
