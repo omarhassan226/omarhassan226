@@ -7,7 +7,7 @@
   <div>
   <img width="40%" align="center" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
   </div>
-  <div style="margin-left: 20px;">
+  <div style="margin-left: 20px; width: 100px">
     <h1>About Me</h1>
     <h3>👨‍💻 I'm a passionate frontend developer from Egypt.</h3>
     <p>🏫 I graduated from the faculty of engineering MUI.</p>
