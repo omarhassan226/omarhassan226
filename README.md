@@ -38,7 +38,7 @@
 
 ## :octocat: GitHub Stats
 يهرd
-<div align="center">![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarhassan226&show_icons=true&theme=radical)</div>
+<div align="center">(https://github-readme-stats.vercel.app/api?username=omarhassan226&show_icons=true&theme=radical)</div>
 ## Pinned Repositories
 
 <p align="center">
