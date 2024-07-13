@@ -38,7 +38,8 @@
 
 ## :octocat: GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=omarhassan226&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhassan226&show_icons=true&theme=radical"/>
+
 ## Pinned Repositories
 
 <p align="center">
