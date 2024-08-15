@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Omazz👋💫</h1>
+<h1 align="center">Hi there, I'm Omaz👋💫</h1>
 <h1 align="center">Look For Ninja!👻🔥</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
