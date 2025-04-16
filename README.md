@@ -5,7 +5,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div  align="center">
-  <img width="40%" align="center" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
+  <img width="40%" align="center" src="[https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)"/>
   </div>
   <div style="margin-left: 20px; width: 100px">
     <h1>About Me</h1>
