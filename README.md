@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Omar👋💫</h1>
-<h1 align="center">Look For Ninja!👻🔥</h1>
+<h1 align="center">Looking For Ninja!👻🔥</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
@@ -9,9 +9,9 @@
   </div>
   <div style="margin-left: 20px; width: 100px">
     <h1>About Me</h1>
-    <h3>👨‍💻 I'm a passionate frontend developer from Egypt.</h3>
+    <h3>👨‍💻 I'm a passionate fullstack developer from Egypt.</h3>
     <p>🏫 I graduated from the faculty of engineering MUI.</p>
-    <p>💬 Ask me about HTML, CSS, JavaScript, and React.</p>
+    <p>💬 Ask me about HTML, CSS, JavaScript, React, Angular, Next, Node, SQL, Mongodb.</p>
     <p>🤓 Always learning new things.</p>
     <p>📫 How to reach me: <a href="mailto:oh.22697@gmail.com">oh.22697@gmail.com</a></p>
   </div>
